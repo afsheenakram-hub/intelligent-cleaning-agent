@@ -1,0 +1,7 @@
+environment,agent,rows,cols,steps,moves,cleans,revisits,discovered_cells,completion_ratio
+small,frontier_guided,12,16,209,168,41,5,164,1.0
+small,random_baseline,12,16,1405,1364,41,1210,164,1.0
+medium,frontier_guided,18,24,464,365,99,21,345,1.0
+medium,random_baseline,18,24,3685,3586,99,3244,345,1.0
+large,frontier_guided,28,36,1120,853,267,88,766,1.0
+large,random_baseline,28,36,16011,15744,267,14980,766,1.0
